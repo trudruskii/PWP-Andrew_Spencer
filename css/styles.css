@@ -1,9 +1,37 @@
-div.pwpMile1 {
+body {
+    /*background-color: #bccbde*/
+}
+
+div.milestoneTitle {
     font-size: 2em;
     text-align: center;
+    color: black;
+}
+
+div.pwpMile1 {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding: 120px;
+    background-image: url("/imagenamehere.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: cover;
+    background-color: black;
 
 }
 
 div.purpAudGoal {
+    border-bottom: .25em solid black;
+    color: black !important;
+}
 
+section.personaBody {
+    background-color: gainsboro;
+    margin: 100px
+}
+
+h4 {
+    font-size: 2em !important;
+    text-align: center;
 }
