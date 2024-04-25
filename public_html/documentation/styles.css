@@ -1,11 +1,10 @@
-body {
-    /*background-color: #bccbde*/
-}
+
 
 div.milestoneTitle {
-    font-size: 2em;
+    font-size: 4em;
     text-align: center;
     color: black;
+    font-family: monospace;
 }
 
 div.pwpMile1 {
@@ -18,20 +17,27 @@ div.pwpMile1 {
     background-position: center;
     object-fit: cover;
     background-color: black;
+    font-family: monospace;
 }
 
 div.purpAudGoal {
     border-bottom: .25em solid black;
+    border-left: .25em solid black;
+    border-right: .25em solid black;
     color: black !important;
+    padding: 1em;
 }
 
 section.personaBody {
     background-color: gainsboro;
-    margin: 1em;
+    margin-top: 2em;
     padding: 1em;
 }
 
 h4 {
-    font-size: 2em !important;
+    font-size: 3em !important;
     text-align: center;
+    font-style: italic;
+    font-family: monospace;
 }
+
