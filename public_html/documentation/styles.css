@@ -10,15 +10,14 @@ div.milestoneTitle {
 
 div.pwpMile1 {
     text-align: center;
-    margin-top: 25px;
-    margin-bottom: 50px;
+    margin-top: 1em;
+    margin-bottom: 2em;
     padding: 120px;
-    background-image: url("/imagenamehere.jpg");
+    background-image: url("imagenamehere.jpg");
     background-repeat: no-repeat;
     background-position: center;
     object-fit: cover;
     background-color: black;
-
 }
 
 div.purpAudGoal {
@@ -28,7 +27,8 @@ div.purpAudGoal {
 
 section.personaBody {
     background-color: gainsboro;
-    margin: 100px
+    margin: 1em;
+    padding: 1em;
 }
 
 h4 {
